@@ -3,7 +3,7 @@
 Created on Mon Mar 18 14:52:47 2019
 
 @author: TongDist
-用霍夫圆检测  瞳孔
+用霍夫圆检测  瞳孔 
 """
 
 from eye_tracking_fun.eye_tracking1 import eye_tracking_1
