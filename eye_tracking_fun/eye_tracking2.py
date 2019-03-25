@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 27 14:19:38 2019
 
-@author: TongDist
+@author: TongDist 
 face_recognition   
 """
 
