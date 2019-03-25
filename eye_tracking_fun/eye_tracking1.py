@@ -4,7 +4,7 @@ Created on Sun Jan 27 13:49:42 2019
 
 @author: TongDist
 好像和2一样
-模型：
+模型： 
     dlib shape_predictor_68_face_landmarks
 """
 import dlib
