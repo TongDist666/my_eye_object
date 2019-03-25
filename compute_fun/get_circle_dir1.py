@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 25 15:11:23 2019
 
-@author: TongDist
+@author: TongDist 
 为了方便获取 圆上坐标，直接全算出来，写成本地文件，用的时候读就行
 """
 
