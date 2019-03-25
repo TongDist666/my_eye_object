@@ -59,7 +59,6 @@ def pointsToRectangleArea(points,size):
     else:
         #print("输入points为空或超过2个！！！")
         return 1
-
 '''
 a=[[1,2],[3,4]]
 b=[(1,2),(3,4)]
