@@ -55,7 +55,6 @@ while cv2.waitKey(1)!=27:
     cv2.circle(rimg,(result[0],result[1]),result[2],(0,0,255),1)
     #cv2.imshow('test',test)
     
-    
     cv2.imshow("test",rimg)
     
     #b,g,r=cv2.split(test_rgb)
