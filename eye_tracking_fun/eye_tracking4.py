@@ -4,7 +4,6 @@ Created on Sun Jan 27 15:04:12 2019
 
 @author: TongDist
 """
-
 import cv2
 import numpy as np
 # 图片识别方法封装
