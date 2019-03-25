@@ -8,7 +8,6 @@ face_landmarks  model="small"
 
 import face_recognition
 
-
 def eye_tracking_3(img):
     face_landmarks_list = face_recognition.face_landmarks(img,model="small")
     try:
